@@ -26,5 +26,8 @@ replay_pid*
 /tests/*
 /public/*
 /storage/logs*
+/storage/cache/*
+/storage/sessions/*
+/storage/views/*
 /vendor/*
 .env
