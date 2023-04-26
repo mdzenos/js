@@ -25,7 +25,7 @@ replay_pid*
 
 /tests/*
 /public/*
-/storage/framework/cach/e* 
+/storage/framework/cache/* 
 /storage/framework/sessions/*
 /storage/framework/views/*
 /vendor/*
